@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tic_tac_toe/static/css/main.a99c6d5f.chunk.css",
+    "main.js": "/tic_tac_toe/static/js/main.22729db2.chunk.js",
+    "main.js.map": "/tic_tac_toe/static/js/main.22729db2.chunk.js.map",
+    "runtime-main.js": "/tic_tac_toe/static/js/runtime-main.0ede0d9c.js",
+    "runtime-main.js.map": "/tic_tac_toe/static/js/runtime-main.0ede0d9c.js.map",
+    "static/js/2.2e76dc40.chunk.js": "/tic_tac_toe/static/js/2.2e76dc40.chunk.js",
+    "static/js/2.2e76dc40.chunk.js.map": "/tic_tac_toe/static/js/2.2e76dc40.chunk.js.map",
+    "static/js/3.68b0c88e.chunk.js": "/tic_tac_toe/static/js/3.68b0c88e.chunk.js",
+    "static/js/3.68b0c88e.chunk.js.map": "/tic_tac_toe/static/js/3.68b0c88e.chunk.js.map",
+    "index.html": "/tic_tac_toe/index.html",
+    "static/css/main.a99c6d5f.chunk.css.map": "/tic_tac_toe/static/css/main.a99c6d5f.chunk.css.map",
+    "static/js/2.2e76dc40.chunk.js.LICENSE.txt": "/tic_tac_toe/static/js/2.2e76dc40.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tic_tac_toe/static/media/bluemoon.9b4ea378.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ede0d9c.js",
+    "static/js/2.2e76dc40.chunk.js",
+    "static/css/main.a99c6d5f.chunk.css",
+    "static/js/main.22729db2.chunk.js"
+  ]
+}

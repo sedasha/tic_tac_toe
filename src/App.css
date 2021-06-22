@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  background-image: url('./Game/bluemoon.png');
+  background-size: contain;
+  height: 100vh;
+}
+
+

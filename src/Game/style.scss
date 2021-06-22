@@ -1,0 +1,96 @@
+.container{
+    width: 100%;
+    align-items: center;
+    padding: 40px;
+    .heading{
+        color:rgb(172, 40, 106);
+        font-size:40px;
+    }
+    .container_second{
+        display: flex;
+        justify-content: space-around;
+       .cube {
+           padding: 13px;
+           flex-wrap: wrap;
+           width: 34%;
+           display: flex;
+           justify-content: center;
+           background-color: rgb(240, 151, 166);
+           border-radius: 9px;
+       }
+       .cube2{
+           width: 40%;
+           color:rgb(172, 40, 106);
+           align-items: center;
+           display:flex;
+           flex-direction: column;
+           justify-content: center;
+           height: 380px;
+           .winner{
+               height: 50px;
+               margin-top: 80px;
+               .winner_box{
+                   font-size:x-large;
+                   margin-bottom: 30px;
+                   font-weight: bold;
+               }
+           }
+           .score{
+               display:flex;
+               flex-direction: row;
+               width: 100%;
+               justify-content: space-evenly;
+               background-color: rgba(240, 151, 166, 0.8);
+               padding-bottom: 20px;
+               box-sizing: border-box;
+               border-radius: 9px;
+               .score_value{
+                   border: 2px solid rgb(55, 18, 85);
+                   padding: 10px;
+                   width: 80px;
+                   box-sizing: border-box;
+                   font-size: larger;
+                   font-weight: bolder;
+                   background-color: rgba(255, 255, 255, 0.8);
+                   margin-left: 16px;
+                   border-radius: 7px;
+               }
+           } 
+           .reset_btn{
+               margin-top: 20px;
+               width: 150px;
+               height: 50px;
+               outline: none;
+               background-color: rgba(108, 154, 238, 0.8);
+               border: none;
+               color:rgb(138, 26, 82);
+               font-weight: bold;
+               transition: 0.5s;
+               font-size:medium;
+               border-radius: 9px;
+           }
+           .reset_btn:hover{
+               border: 1px solid rgb(51, 48, 48);
+               background-color: white;
+           }
+       }
+    }
+}
+.oneCube{
+    width: 120px;
+    height: 120px;
+    border-radius: 7px;
+    background-color: rgb(234, 253, 108);
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+    box-shadow: 1px 1px 4px 3px rgb(206, 195, 195);
+    .img{
+        box-sizing: border-box;
+        width: 100px;
+        height: 100px;
+    }
+}
